@@ -3,24 +3,23 @@
 A collaborative Android application designed to help students organize their studies, manage tasks, and stay productive — powered by Firebase.
 
 ---
-##  Screenshots
-<img width="702" height="1000" alt="image" src="https://github.com/user-attachments/assets/a99fa4ec-a766-4dd3-a27e-0266d95dd55e" />
+## 📸 Screenshots
 
----
-<img width="702" height="500" alt="image" src="https://github.com/user-attachments/assets/0f622c57-0725-4beb-bd1f-adfa59ba2ffc" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a99fa4ec-a766-4dd3-a27e-0266d95dd55e" width="220" />
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/0f622c57-0725-4beb-bd1f-adfa59ba2ffc" width="220" />
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/366513e5-0271-4507-8c89-120832d5a098" width="220" />
+</p>
 
----
-<img width="702" height="500" alt="image" src="https://github.com/user-attachments/assets/366513e5-0271-4507-8c89-120832d5a098" />
-
----
-<img width="702" height="500" alt="image" src="https://github.com/user-attachments/assets/0a0ecf43-eefd-48c4-8758-eeb0cfe15f37" />
-
----
-<img width="702" height="500" alt="image" src="https://github.com/user-attachments/assets/048780de-01e1-4fb9-8470-b308a421132b" />
-
----
-<img width="540" height="500" alt="image" src="https://github.com/user-attachments/assets/24d9413d-ff74-402a-a7d2-7ff89cb834d8" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0a0ecf43-eefd-48c4-8758-eeb0cfe15f37" width="220" />
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/048780de-01e1-4fb9-8470-b308a421132b" width="220" />
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/24d9413d-ff74-402a-a7d2-7ff89cb834d8" width="220" />
+</p>
 
 ---
 ## ✨ Features
