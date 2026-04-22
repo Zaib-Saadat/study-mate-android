@@ -4,7 +4,7 @@ A collaborative Android application designed to help students organize their stu
 
 ---
 ##  Screenshots
-<img width="702" height="500" alt="image" src="https://github.com/user-attachments/assets/a99fa4ec-a766-4dd3-a27e-0266d95dd55e" />
+<img width="702" height="1000" alt="image" src="https://github.com/user-attachments/assets/a99fa4ec-a766-4dd3-a27e-0266d95dd55e" />
 
 ---
 <img width="702" height="500" alt="image" src="https://github.com/user-attachments/assets/0f622c57-0725-4beb-bd1f-adfa59ba2ffc" />
