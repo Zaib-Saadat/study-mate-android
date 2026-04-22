@@ -4,22 +4,22 @@ A collaborative Android application designed to help students organize their stu
 
 ---
 ##  Screenshots
-<img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/a99fa4ec-a766-4dd3-a27e-0266d95dd55e" />
+<img width="702" height="500" alt="image" src="https://github.com/user-attachments/assets/a99fa4ec-a766-4dd3-a27e-0266d95dd55e" />
 
 ---
-<img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/0f622c57-0725-4beb-bd1f-adfa59ba2ffc" />
+<img width="702" height="500" alt="image" src="https://github.com/user-attachments/assets/0f622c57-0725-4beb-bd1f-adfa59ba2ffc" />
 
 ---
-<img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/366513e5-0271-4507-8c89-120832d5a098" />
+<img width="702" height="500" alt="image" src="https://github.com/user-attachments/assets/366513e5-0271-4507-8c89-120832d5a098" />
 
 ---
-<img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/0a0ecf43-eefd-48c4-8758-eeb0cfe15f37" />
+<img width="702" height="500" alt="image" src="https://github.com/user-attachments/assets/0a0ecf43-eefd-48c4-8758-eeb0cfe15f37" />
 
 ---
-<img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/048780de-01e1-4fb9-8470-b308a421132b" />
+<img width="702" height="500" alt="image" src="https://github.com/user-attachments/assets/048780de-01e1-4fb9-8470-b308a421132b" />
 
 ---
-<img width="540" height="1230" alt="image" src="https://github.com/user-attachments/assets/24d9413d-ff74-402a-a7d2-7ff89cb834d8" />
+<img width="540" height="500" alt="image" src="https://github.com/user-attachments/assets/24d9413d-ff74-402a-a7d2-7ff89cb834d8" />
 
 
 ---
